@@ -5,7 +5,7 @@
 * Parent theme: Blocksy 2.1.2
 * Child theme: blocksy-child
 
-## Custom Seactions and Pages 
+## Custom Sections and Pages 
 * [Header & Footer Scripts](header-footer/)
 * [Menu](menu/)
 * [Form](form/)
@@ -54,8 +54,8 @@ Here we have all the theme settings
 ---
 
 ## Header Options  
-- **Haeder Settings:** Align menus and adjust spacing.
-You can chnage the setting by clicking on the **COG** icon
+- **Header Settings:** Align menus and adjust spacing.
+You can change the setting by clicking on the **COG** icon
 ![Header settings](img/header-settings.png)
 - **Sticky Header:** Enable a header that stays visible on scroll.  
 
